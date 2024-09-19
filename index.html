@@ -27,12 +27,16 @@
                                   supported by Chrome, Edge, Opera and Firefox */
             }
 
-            body *{
+            body * {
                 @apply noselect;
             }
 
-            button{
+            button {
                 @apply rounded border-4 border-violet-500 bg-gradient-to-br from-violet-500 to-violet-300 px-5 py-3;
+            }
+
+            button {
+                touch-action: manipulation;
             }
         }
     </style>
