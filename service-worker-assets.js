@@ -33,15 +33,15 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-IzbCUfu9b9vn7m3jc17cwBNIzSCy5E5UtQKD35JguQM=",
+      "hash": "sha256-eFrqgVHNtq14PXPIcMpSIr2Mh6J87f7Pqo1vGD4P+Ko=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-hnwZgOovZVCxM8GpDe7+TGj2rwoq7MZvFJqT2QEr2mI=",
+      "hash": "sha256-ERDByTC74YDaKP4ufOb0\/XUEitQwsc60VrPijNZg6bI=",
       "url": "_framework\/Microsoft.AspNetCore.Components.wasm"
     },
     {
-      "hash": "sha256-spyk6aOlBqGuXrgkag654fMJljJemLYToKEcwC5Nvgo=",
+      "hash": "sha256-ZSe01ZHHHFgnvYExx7mQsHWDntA4SwIH9tLd3L\/TcMg=",
       "url": "_framework\/Microsoft.AspNetCore.Components.Web.wasm"
     },
     {
@@ -93,7 +93,7 @@
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.wasm"
     },
     {
-      "hash": "sha256-QbJpweVI2p5zby2IVo9\/dRB9KP+f20JcBLl\/SRRbgaU=",
+      "hash": "sha256-VWL7rVX8QfNYbminyXUNO3TfxRwfvrQ0id5kesGUVrc=",
       "url": "_framework\/NumratPerIsen.wasm"
     },
     {
@@ -141,7 +141,7 @@
       "url": "_framework\/System.Runtime.InteropServices.JavaScript.wasm"
     },
     {
-      "hash": "sha256-AFcwAsUuedgKtjoCssGB9GcBK4MyzwK3HFsHIVeJQz4=",
+      "hash": "sha256-XkUQ0NuZ3oRIwRl76jOTrqJuIsWYdE7+xXhjWv8Wrwc=",
       "url": "_framework\/System.Runtime.wasm"
     },
     {
@@ -161,6 +161,10 @@
       "url": "css\/app.css"
     },
     {
+      "hash": "sha256-47DEQpj8HBSa+\/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "url": "favicon.ico"
+    },
+    {
       "hash": "sha256-DbpQaq68ZSb5IoPosBErM1QWBfsbTxpJqhU0REi6wP4=",
       "url": "icon-192.png"
     },
@@ -169,8 +173,12 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-EGOS7nQsT3AUgIrGI0+aGIoVtKX5uneVa3ztx4I2IYg=",
+      "hash": "sha256-tnoWUyAcDbUU\/Cr9z2Y9jutenxaNfotuRnqExQo57ss=",
       "url": "index.html"
+    },
+    {
+      "hash": "sha256-xX+QpVRVIN3T2aCPIAhTgLbzsMN2P81PrtGQ8YBUwPY=",
+      "url": "js\/index.js"
     },
     {
       "hash": "sha256-m5LB47I5idnxwClGQ4c7Wi03ymFHrmaLkQm0HTLv+h4=",
@@ -181,5 +189,5 @@
       "url": "ze\/plup.mp3"
     }
   ],
-  "version": "6FGMfykY"
+  "version": "zea8gQvd"
 };
