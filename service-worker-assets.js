@@ -33,7 +33,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-2RR4V4oxg6mFDmg0UOqPCDP11vofzRPXCsJNxf4pqis=",
+      "hash": "sha256-K9L2UWxs3WKGlHR5LrSTqm34kYo\/2+SmnjHAnQQiNR0=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -93,7 +93,7 @@
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.wasm"
     },
     {
-      "hash": "sha256-tfYaT3gS69YsoFgUXboObLAVw98cLHc6NmydXZXLGuI=",
+      "hash": "sha256-tU2Ivlm4mwrqQ3rI\/c7B7Ejsn1gtVDrFAI2oNePuCPM=",
       "url": "_framework\/NumratPerIsen.wasm"
     },
     {
@@ -189,5 +189,5 @@
       "url": "ze\/plup.mp3"
     }
   ],
-  "version": "hTM4ThjV"
+  "version": "CaeW1MoY"
 };
